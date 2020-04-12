@@ -1,6 +1,6 @@
 {
   "name": "urlqueryobject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "source": "src/urlqueryobject.js",
   "main": "dist/urlqueryobject.js",
