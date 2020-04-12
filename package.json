@@ -1,11 +1,11 @@
 {
-  "name": "getquery",
+  "name": "urlqueryobject",
   "version": "0.0.1",
   "description": "",
-  "source": "src/getquery.js",
-  "main": "dist/getquery.js",
-  "module": "dist/getquery.module.js",
-  "unpkg": "dist/getquery.umd.js",
+  "source": "src/urlqueryobject.js",
+  "main": "dist/urlqueryobject.js",
+  "module": "dist/urlqueryobject.module.js",
+  "unpkg": "dist/urlqueryobject.umd.js",
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch"
