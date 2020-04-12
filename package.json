@@ -1,0 +1,18 @@
+{
+  "name": "getquery",
+  "version": "0.0.1",
+  "description": "",
+  "source": "src/getquery.js",
+  "main": "dist/getquery.js",
+  "module": "dist/getquery.module.js",
+  "unpkg": "dist/getquery.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  }
+}
