@@ -1,12 +1,13 @@
 {
   "name": "urlqueryobject",
   "version": "0.0.3",
-  "description": "",
+  "description": "A 180 byte (gzip) utility to get the current url query params as object.",
   "source": "src/urlqueryobject.js",
   "main": "dist/urlqueryobject.js",
   "module": "dist/urlqueryobject.module.js",
   "unpkg": "dist/urlqueryobject.umd.js",
   "scripts": {
+    "prepublish": "microbundle",
     "build": "microbundle",
     "dev": "microbundle watch"
   },

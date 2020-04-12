@@ -2,6 +2,10 @@
 
 A 180 byte (gzip) utility to get the current url query params as object.
 
+## Install
+
+`npm i urlqueryobject`
+
 ## Example
 
 Url: `https://example.com?foo=baz&something=more`
