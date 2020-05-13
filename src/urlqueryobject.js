@@ -1,4 +1,4 @@
-export function getUrlQueryData() {
+export default function getUrlQueryData() {
   if (typeof window === 'undefined') return {};
   const queryData = window.location.search.replace(/^\?/, '').split('&');
   const d = {};
